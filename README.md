@@ -2,4 +2,4 @@
 
 **find me on** 👇
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekterable)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekterable) [![My Website](https://img.shields.io/badge/my_website-black?style=for-the-badge&logo=undertale&logoColor=white)](https://www.kornel.me)
